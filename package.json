@@ -1,5 +1,5 @@
 {
-  "name": "censorify",
+  "name": "censor",
   "version": "1.0.0",
   "description": "\"Censors words out of text\"",
   "main": "censorText.js",
