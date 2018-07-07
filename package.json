@@ -1,0 +1,22 @@
+{
+  "name": "censorify",
+  "version": "1.0.0",
+  "description": "\"Censors words out of text\"",
+  "main": "censorText.js",
+  "repository":{
+    "type":"git",
+    "url":"git@github.com:lmouzeo/censorRepository"
+  },
+  "keywords":[
+    "censor",
+    "words"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines":{
+    "node":"*"
+  },
+  "author": "\"Loic Mouzeo\"",
+  "license": "ISC"
+}
